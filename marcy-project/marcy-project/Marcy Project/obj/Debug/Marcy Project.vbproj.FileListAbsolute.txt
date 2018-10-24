@@ -1,0 +1,12 @@
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\bin\Debug\Marcy Project.exe.config
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\bin\Debug\Marcy Project.exe
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\bin\Debug\Marcy Project.pdb
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\bin\Debug\Marcy Project.xml
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy Project.vbprojAssemblyReference.cache
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy_Project.frmMain.resources
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy_Project.Resources.resources
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy Project.vbproj.GenerateResource.cache
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy Project.vbproj.CoreCompileInputs.cache
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy Project.exe
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy Project.xml
+C:\Users\Kyle\Downloads\tunxisvisualbasic\VB2015\Chap04\Marcy Solution\Marcy Project\obj\Debug\Marcy Project.pdb
